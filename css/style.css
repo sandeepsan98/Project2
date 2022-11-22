@@ -1,0 +1,157 @@
+*{
+    margin: 0%;
+    padding:0%
+}
+body{
+    overflow-x: hidden;
+    font-size: 18px
+}
+header {
+    display: flex;
+    flex-direction: row;
+}
+.logo{
+    margin-left: 110px;
+    margin-top: 50px;
+    
+}
+#pre{
+    margin-left: 1110px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 7px;
+    width: 150px;
+    font-family: sans-serif;
+    background-color:hsl(198, 28%, 93%);
+    color: hsl(220, 50%, 17%);
+}
+.type{
+    font-weight:bold;
+    color: hsl(220, 50%, 17%);
+    margin-left: 110px;
+    margin-top: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.typecon{
+    margin-left: 110px;
+    margin-top: 20px;
+    color:hsl(221, 23%, 58%);
+        line-height: 1.6;
+}
+#pre2{
+    margin-left: 110px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 7px;
+    width: 150px;
+    height: 38px;
+    font-family: sans-serif;
+    background-color: hsl(22, 89%, 52%);
+    color: white;
+}
+.typecon2{
+    margin-left: 110px;
+    margin-top: 20px;
+    position: relative;
+    left: 200px;
+    bottom: 47px;
+    color:hsl(221, 23%, 58%);
+}
+.keyboard{
+    width:280px;
+    height:300px;
+    border-radius: 20px;
+    position: relative;
+    left:1139px;
+    margin-right: 300px;
+    bottom:330px;
+    
+}
+.keyboard2{
+    width:170px;
+    height:280px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 110px;
+    position: relative;
+    bottom:220px;
+    border-radius: 7px;
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,175,75,1)), color-stop(74%, rgba(255,175,75,1)), color-stop(85%, rgba(255,175,75,1)), color-stop(100%, rgba(255,146,10,1)));
+    opacity: 0.5;
+   
+
+    
+}
+.keyboard3{
+    width:230px;
+    height:282px;
+    margin-left: 320px;
+    position: relative;
+    bottom: 500px;
+    border-radius: 7px;
+    
+    
+}
+.container{
+    position: relative;
+    bottom:750px;
+    left:1150px;
+}
+.cont1{
+    color: hsl(220, 50%, 17%);
+}
+.cont2{
+    color:hsl(221, 23%, 58%);
+    line-height: 1.6;
+}
+.img1 {
+    background-color:hsl(22, 89%, 52%);;
+    padding: 10px;
+    border-radius:5px;
+   
+}
+.img2 {
+    background-color:hsl(22, 89%, 52%);;
+    padding: 10px;
+    border-radius:5px;
+   
+   
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 590px;
+    left:20px;
+    
+}
+.h1{
+    color:hsl(220, 50%, 17%);
+    position: relative;
+    top:20px;
+
+}
+.h12{
+    color:hsl(220, 50%, 17%);
+    position: relative;
+    top:17px;
+
+}
+.h13{
+    color:hsl(220, 50%, 17%);
+    position: relative;
+    top:20px;
+
+}
+.h14{
+    color:hsl(220, 50%, 17%);
+    position: relative;
+
+}
+.t1{
+    color: hsl(221, 23%, 58%);
+    line-height: 1.6;
+    font-size: 18px;
+
+}
