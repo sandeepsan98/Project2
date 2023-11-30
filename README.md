@@ -9,4 +9,4 @@ This project is part of my ongoing journey to enhance my skills in web developme
 - **Type:** Static Webpage Recreation
 
 ## Link to page
-- View Page: 
+- View Page: https://sandeepsan98.github.io/Project2/
